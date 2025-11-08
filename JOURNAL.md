@@ -6,12 +6,19 @@
   ==================================================================
 -->
 
-## 11/9/2025 - Finished everything  
+## 11/9/2025 9:50 AM - Finished everything  
 
 I installed Kicad and spent so much time importing the library, and then created the 2 files on Fusion (some stuff wasnt explained properly so i had to follow 50 different tutorials on fusion)
 
 My JLCPCB total price:
 ![Screenshot 2025-11-09 094944](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--29abe3caa2bd459e677b5edfcfa1c50c775e0c69/Screenshot%202025-11-09%20094944.png)
 
+  
+
+## 11/9/2025 9:52 AM - Bill of Materials  
+
+[hackpad](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--a0e0ba1bc04beb16b5e2b3eece2387f090e02b04/hackpad.csv)
+
+![Screenshot 2025-11-09 082929](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--01c561152ba606d78a6c5b59f8474184c31afa4b/Screenshot%202025-11-09%20082929.png)
   
 
