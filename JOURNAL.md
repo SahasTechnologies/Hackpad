@@ -17,7 +17,9 @@ My JLCPCB total price:
 
 ## 11/9/2025 9:52 AM - Bill of Materials  
 
-[hackpad](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--a0e0ba1bc04beb16b5e2b3eece2387f090e02b04/hackpad.csv)
+Here is my BOM:
+[bom](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--4d1b6aff1c15b1d1f76a5fce0e652489194652f6/bom.csv)
+
 
 ![Screenshot 2025-11-09 082929](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--01c561152ba606d78a6c5b59f8474184c31afa4b/Screenshot%202025-11-09%20082929.png)
   
