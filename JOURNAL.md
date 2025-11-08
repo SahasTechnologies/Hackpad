@@ -22,3 +22,10 @@ My JLCPCB total price:
 ![Screenshot 2025-11-09 082929](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--01c561152ba606d78a6c5b59f8474184c31afa4b/Screenshot%202025-11-09%20082929.png)
   
 
+## 11/9/2025 9:54 AM - 3D Printing for JLCPCB (in case i cant print at blueprint)  
+
+I put my files from Autodesk Fusion 360 into JLCBCB to check how expensive it will be, I will use this if I am not able to print the file with Blueprint
+
+![3D Print Price](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwMywicHVyIjoiYmxvYl9pZCJ9fQ==--d6733191feaf336b9bb73dcdbf687bcad744c815/3D%20Print%20Price.png)
+  
+
