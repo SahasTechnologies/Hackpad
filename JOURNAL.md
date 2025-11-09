@@ -31,3 +31,17 @@ I put my files from Autodesk Fusion 360 into JLCBCB to check how expensive it wi
 ![3D Print Price](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYwMywicHVyIjoiYmxvYl9pZCJ9fQ==--d6733191feaf336b9bb73dcdbf687bcad744c815/3D%20Print%20Price.png)
   
 
+## 11/9/2025 4 PM - Changing everything  
+
+Got all the way to the end.. just to find this line
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--51dd26de9764462a69105bbd32f14891202d0093/image.png)
+
+*sigh*
+_I'll have to design it again_
+That's fine though, I'll customise it and resubmit
+
+### Also
+I changed the XIAO module to have pass-through holes instead of just a copper plate for more stability to solder, that took about 30min to insert the new module
+
+  
+
