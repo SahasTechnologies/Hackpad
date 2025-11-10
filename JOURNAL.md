@@ -45,3 +45,10 @@ I changed the XIAO module to have pass-through holes instead of just a copper pl
 
   
 
+## 11/10/2025 - Finished everything x2  
+
+Finished everything!
+(including the hackpad lid, which i dont know if it will fit or not since kicad and fusion dont really work well together... (ill add a screenshot of the lid anyway)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ef7a92447466b23f1c3b17c56296c8b730bbb2f6/image.png)
+  
+
