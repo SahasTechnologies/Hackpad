@@ -14,3 +14,5 @@ This is my macropad!
 > I've uploaded this in the .step and .stl files for the lid and the enclosure, here are the renders:
 <img width="2080" height="1086" alt="Macropad Lid" src="https://github.com/user-attachments/assets/d82b3c89-7bd3-4ef1-baed-97b87f078c2b" />
 <img width="2080" height="1086" alt="Macropad Case" src="https://github.com/user-attachments/assets/228813be-201c-443b-a0c3-8dabf192e87d" />
+Notes:
+The holes are 5mm each with 6mm cutouts for the screws, with 0.5mm corner smoothening for all corners on the edge, and 5mm corner smoothening for the 4 corners. The lif has holes for the SEEED Studio Xiao, the 4 Cherry MX Keys, the OLED Display and the Neopixel, made to align with the PCB.
