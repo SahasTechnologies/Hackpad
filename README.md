@@ -1,5 +1,11 @@
 This is my macropad!
 
+How it will look like:
+Full:
+<img width="2048" height="1152" alt="Full Render" src="https://github.com/user-attachments/assets/bcf53c07-980b-4721-8309-9c01182e208f" />
+<img width="2048" height="1152" alt="Full Render 2" src="https://github.com/user-attachments/assets/a02b3bcf-1f0c-4ab2-a84f-e5bb2679ee87" />
+
+
 > Render:
 >> <img width="2030" height="1220" alt="_autosave-hackpad" src="https://github.com/user-attachments/assets/f099b51b-3440-4bab-8370-8a32a168985b" />
 
