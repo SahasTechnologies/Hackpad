@@ -1,5 +1,8 @@
 This is my macropad!
 
+> Render:
+>> <img width="2030" height="1220" alt="_autosave-hackpad" src="https://github.com/user-attachments/assets/f099b51b-3440-4bab-8370-8a32a168985b" />
+
 # KiCad:
 > My Gerber files are in the [Gerber.zip folder](https://github.com/SahasTechnologies/Hackpad/blob/main/Gerber.zip)
 > <img width="1779" height="1117" alt="Screenshot 2025-11-11 161810" src="https://github.com/user-attachments/assets/eae4b773-4257-4f6c-9133-864e09ef4ae4" />
@@ -16,3 +19,5 @@ This is my macropad!
 <img width="2080" height="1086" alt="Macropad Case" src="https://github.com/user-attachments/assets/228813be-201c-443b-a0c3-8dabf192e87d" />
 Notes:
 The holes are 5mm each with 6mm cutouts for the screws, with 0.5mm corner smoothening for all corners on the edge, and 5mm corner smoothening for the 4 corners. The lif has holes for the SEEED Studio Xiao, the 4 Cherry MX Keys, the OLED Display and the Neopixel, made to align with the PCB.
+
+
